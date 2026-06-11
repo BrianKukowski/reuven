@@ -1,1 +1,2 @@
 created file_b.txt on clone b
+added line on clone b
